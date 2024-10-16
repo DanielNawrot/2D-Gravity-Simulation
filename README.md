@@ -22,7 +22,7 @@ Finally, we break down the acceleration vector into its x & y components, which 
 
 ![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/png.image?\inline&space;\dpi{200}\bg{black}(a_{x},a_{y})=(\hat{r}_{x}\times\left\|a\right\|,\hat{r}_{y}\times\left\|a\right\|))
 
-One problem with my approach is that it does not consider optimising the program, meaning that processing speeds increase dramatically with increasing amounts of bodies. My program loops through each body, and calculates the attraction towards each other body.
+One problem with my approach is that it does not consider optimising the program, meaning that processing speeds increase dramatically with increasing amounts of bodies. My program loops through each body, and calculates the attraction towards each other body.  used one body as a large central mass to make the other masses orbit around. If I come back to this project I want to improve the overall look of the programm, allowing for trails, visualizing the path of the planets.
 
 Here are some images of the simulation:
 

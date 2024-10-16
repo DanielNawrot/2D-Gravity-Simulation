@@ -24,3 +24,8 @@ Finally, we break down the acceleration vector into its x & y components, which 
 
 One problem with my approach is that it does not consider optimising the program, meaning that processing speeds increase dramatically with increasing amounts of bodies. My program loops through each body, and calculates the attraction towards each other body.
 
+Here are some images of the simulation:
+
+![alt text](https://github.com/DanielNawrot/2D-Gravity-Simulation/blob/main/GravitySimScreenshot1.png)
+
+![alt text](https://github.com/DanielNawrot/2D-Gravity-Simulation/blob/main/GravitySimScrrenshot2.png)

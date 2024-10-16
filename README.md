@@ -4,4 +4,4 @@ In this project I challenged myself with programming a large body gravity simula
 
 The simulation uses Newton's Gravity Equations: 
 
-    $\sqrt{3x-1}+(1+x)^2$
+    GMm/r^2
